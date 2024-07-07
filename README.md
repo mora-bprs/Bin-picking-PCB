@@ -32,8 +32,9 @@ The bin picking robot PCB is a component of a robotic system designed for demons
 
 - `Version1/` - Contains design files for the first version of the PCB.
 - `Version2/` - Contains design files for the second version of the PCB.
-- `Block Diagram.png` - Block diagram of the PCB components.
-
+- `Schematic designs` - Schematic designs of the PCB components.
+- `PCB design` - - Final PCB design files.
+  
 ## Getting Started
 
 To get started with this project:
