@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=LED1 NewDesignator=POWER
+Change Component Designator: OldDesignator=LED2 NewDesignator=MOTOR
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetPOWER_1
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetMOTOR_2

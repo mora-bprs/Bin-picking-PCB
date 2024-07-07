@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=RESET New Net Name=RESET_MOTOR_DRIVER
+Added Pin To Net: NetName=RESET_MCU Pin=C5-2
+Added Pin To Net: NetName=RESET_MCU Pin=D1-2
+Added Pin To Net: NetName=RESET_MCU Pin=IC1-30
+Added Pin To Net: NetName=RESET_MCU Pin=ICSP-5
+Added Pin To Net: NetName=RESET_MCU Pin=RN1-7
+Added Pin To Net: NetName=RESET_MCU Pin=S1-3
+Added Pin To Net: NetName=RESET_MCU Pin=S1-4
+Added Net: Name=RESET_MCU
