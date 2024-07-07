@@ -41,6 +41,12 @@ The bin picking robot PCB is a component of a robotic system designed for demons
 ## MCU SchDoc
 ![mcu](https://github.com/mora-bprs/Bin-picking-PCB/blob/main/Schematic%20Design/MCU%20SchDoc.png)
 
+## Motor Driver SchDoc
+![motor driver](https://github.com/mora-bprs/Bin-picking-PCB/blob/main/Schematic%20Design/MotorDrive%20SchDoc.png)
+
+## Power SchDoc
+![power schdoc](https://github.com/mora-bprs/Bin-picking-PCB/blob/main/Schematic%20Design/Power%20SchDoc.png)
+
 
 ## Getting Started
 
