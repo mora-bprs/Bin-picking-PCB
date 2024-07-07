@@ -78,10 +78,6 @@ If you would like to contribute to this project, please follow these steps:
     ```
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to Prof. Jayasingha for his guidance and support in developing this PCB.
