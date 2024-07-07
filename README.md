@@ -34,7 +34,14 @@ The bin picking robot PCB is a component of a robotic system designed for demons
 - `Version2/` - Contains design files for the second version of the PCB.
 - `Schematic designs` - Schematic designs of the PCB components.
 - `PCB design` - - Final PCB design files.
-  
+
+## Main SchDoc
+![main](https://github.com/mora-bprs/Bin-picking-PCB/blob/main/Schematic%20Design/Main%20SchDoc.png)
+
+## MCU SchDoc
+![mcu](https://github.com/mora-bprs/Bin-picking-PCB/blob/main/Schematic%20Design/MCU%20SchDoc.png)
+
+
 ## Getting Started
 
 To get started with this project:
