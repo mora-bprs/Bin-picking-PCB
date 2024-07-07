@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=RN2-8
+Change Component Designator: OldDesignator=MOTOR1 NewDesignator=POWER
+Change Component Designator: OldDesignator=POWER1 NewDesignator=MOTOR
+Added Pin To Net: NetName=+12 Pin=RN2-8
+Change Net Name : Old Net Name=NetMOTOR1_2 New Net Name=NetPOWER_2
+Added Pin To Net: NetName=NetMOTOR_1 Pin=MOTOR-1
+Added Pin To Net: NetName=NetMOTOR_1 Pin=RN2-3
+Added Net: Name=NetMOTOR_1
+Added Pin To Net: NetName=NetRN2_1 Pin=RN2-1
+Added Pin To Net: NetName=NetRN2_1 Pin=RN2-7
+Added Net: Name=NetRN2_1
+Added Pin To Net: NetName=NetRN2_2 Pin=RN2-2
+Added Pin To Net: NetName=NetRN2_2 Pin=RN2-6
+Added Net: Name=NetRN2_2
