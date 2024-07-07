@@ -4,13 +4,13 @@ This repository contains the PCB design files for the bin picking robot project,
 
 ## Overview
 
-. This project includes the following key features:
+The bin picking robot PCB is a component of a robotic system designed for demonstration purposes.This project includes the following key features:
 
-- **Microcontroller Unit (MCU):** The PCB is designed to accommodate an MCU for controlling various components.
-- **Sensors:** Integration of membrane and pressure sensors for precise control and feedback.
-- **Motor Driver:** To control the motors used in the robot.
-- **Indicators and Display:** For user interface and debugging.
-- **UART Ports:** For communication with other devices.
+- **Microcontroller Unit (MCU):** ATmega328P for controlling various components.
+- **Sensors:**  Integration of a membrane sensor and a pressure sensor for precise control and feedback.
+- **Motor Driver:** DRV8825 to control the stepper motors used in the robot gripper.
+- **Indicators and Display:**  LEDs and a OLED display for user interface.
+- **UART Ports:** For communication with main devices(get coordinates).
 - **Power Input and Regulators:** To ensure stable power supply to all components.
 
 ## Block Diagram
